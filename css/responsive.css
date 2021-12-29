@@ -1,0 +1,91 @@
+@media only screen and (max-width: 400px){
+    .play{
+        height: 290px;
+    }
+    .offer-head{
+        left: 0;
+        font-size: 40px;
+        top: 255px;
+    }
+    .offer-cap{
+        left: 25px;
+        top: 330px;
+    }
+    .tag-pic{
+        height: 25%;
+        top: 77px;
+    }
+    .tag-pic-3 {
+        height: 23%;
+        margin-left: 54%;
+        top: 180px;
+    }
+    .tag-pic-2{
+    left: 3%;
+    width: 95%;
+    top: 570px;
+    }
+    .my-btn{
+        top: 515px;
+        left: 32%;
+    }
+    .banner-head{
+        padding-top: 340px;
+    }
+    .favour{
+        width: 103px;
+        margin-left: 0px;
+    }
+    .animation-element.slide-left.testimonial h4 {
+        margin: 10px 0px 10px 19px;
+    }
+    .custom-btn {
+        margin-right: 93px;  
+        margin-top: 355px;
+
+    }
+    .christmas{
+        width: 275px;
+        top: 110px;
+    }
+    .offer h3{
+        font-size: 20px !important;
+    }
+    .pt-200 {
+        padding-top: 110px;
+    }
+    .h-580 {
+        height: 250px;
+    }
+    .youtube{
+        margin-top: 20%;
+        padding: 10px 0;
+        margin-top: 13%;
+        width: 70px;
+    }
+    .banner-2-cap{
+        left: 0;
+        top: 55px;
+    }
+    .hov-box{
+    left: -10%;
+    }
+    .hov-box-2{
+        left: 14%;
+    }
+    .hov-box-3{
+        left: 36%;
+    }
+    .hov-box-4{
+        left: 62%;
+    }
+    .custom-card-1{
+        width: 360px;
+    }
+    .banner-2-head{
+        font-size: 35px;
+    }
+    .second-banner{
+        height: 260px;
+    }
+}
